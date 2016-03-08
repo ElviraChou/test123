@@ -3,8 +3,9 @@
 
 include "iostream"
 
-void main(){
+int main(){
 
 cout<< "Heloo world";
 
+return 0;
 }
